@@ -1,0 +1,22 @@
+{
+  "name": "solidity-meme-dapp",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
